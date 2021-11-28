@@ -8,9 +8,9 @@ else:
 class Translation(object):
     START_TEXT = f"""<b>Hello there,</b>
     
-I am a <b>Mega Link Downloader</b> bot!
+I am a <b> Link Downloader</b> bot!
 
-Just enter your mega.nz link and I will return the file/video to you!😇
+Just enter your  link and I will return the file/video to you!😇
 
 💠 I can set custom captions and custom thumbnails too!
 
@@ -18,7 +18,7 @@ Just enter your mega.nz link and I will return the file/video to you!😇
 
 Press /help for more details!
 
-✨ <b>I am open source so you can make your own bot from here!👇</b>"""
+✨ <b>Made With 💓 By @Jimi_Bots 👇</b>"""
     
     DOWNLOAD_START = "<b>Downloading to my server now 📥</b> \n\n<code>Please wait uploading will start as soon as possible😇...</code>"
     UPLOAD_START = "Uploading to Telegram now 📤..."
@@ -26,11 +26,11 @@ Press /help for more details!
     SAVED_CUSTOM_THUMB_NAIL = "𝗖𝘂𝘀𝘁𝗼𝗺 𝗧𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 𝗜𝘀 𝗦𝗮𝘃𝗲𝗱. 𝗧𝗵𝗶𝘀 𝗜𝗺𝗮𝗴𝗲 𝗪𝗶𝗹𝗹 𝗕𝗲 𝗨𝘀𝗲𝗱 𝗜𝗻 𝗬𝗼𝘂𝗿 𝗡𝗲𝘅𝘁 𝗨𝗽𝗹𝗼𝗮𝗱𝘀 📁.\n\nIf you want to delete it send\n /deletethumbnail anytime!"
     DEL_ETED_CUSTOM_THUMB_NAIL = "𝗖𝘂𝘀𝘁𝗼𝗺 𝗧𝗵𝘂𝗺𝗯𝗻𝗮𝗶𝗹 𝗖𝗹𝗲𝗮𝗿𝗲𝗱 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 ❌.\nYou will now get an auto generated thumbnail for your video uploads!"
 
-    HELP_USER = f"""<b><u>🍁Hi I am a Mega Link Downloader Bot.. 🍁</u></b>
+    HELP_USER = f"""<b><u>🍁Hi I am a Link Downloader Bot.. 🍁</u></b>
  
 <u>How to use me:-</u>
 
-<b>Just Send me a mega.nz file link!</b>
+<b>Just Send me any file link!</b>
 
 <b>Important:-</b> 
 
@@ -55,4 +55,4 @@ Ex:- <a href="https://telegra.ph/file/bdc35efc07712050bc418.jpg">Send Like This!
 
 <b>Note</b> :- You can download links which are bigger than 2GB from me too! Due to telegram API limits I can't upload files which are bigger than 2GB so I will split such files and upload them to you!
 
-✨ <b>I am open source so you can make your own bot from here!👇</b>"""
+✨ <b>Created By @Jimi_Bots</b>"""
